@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\bin\Debug\net8.0\OrientacaoObjeto2.exe
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\bin\Debug\net8.0\OrientacaoObjeto2.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\bin\Debug\net8.0\OrientacaoObjeto2.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\bin\Debug\net8.0\OrientacaoObjeto2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\bin\Debug\net8.0\OrientacaoObjeto2.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\refint\OrientacaoObjeto2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\OrientacaoObjeto2.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\OrientacaoObjeto2\OrientacaoObjeto2\obj\Debug\net8.0\ref\OrientacaoObjeto2.dll

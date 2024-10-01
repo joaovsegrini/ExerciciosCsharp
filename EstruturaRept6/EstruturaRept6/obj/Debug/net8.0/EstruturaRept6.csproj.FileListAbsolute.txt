@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\bin\Debug\net8.0\EstruturaRept6.exe
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\bin\Debug\net8.0\EstruturaRept6.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\bin\Debug\net8.0\EstruturaRept6.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\bin\Debug\net8.0\EstruturaRept6.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\bin\Debug\net8.0\EstruturaRept6.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\refint\EstruturaRept6.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\EstruturaRept6.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept6\EstruturaRept6\obj\Debug\net8.0\ref\EstruturaRept6.dll

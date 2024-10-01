@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\bin\Debug\net8.0\Matriz1.exe
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\bin\Debug\net8.0\Matriz1.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\bin\Debug\net8.0\Matriz1.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\bin\Debug\net8.0\Matriz1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\bin\Debug\net8.0\Matriz1.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\refint\Matriz1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\Matriz1.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Matriz1\Matriz1\obj\Debug\net8.0\ref\Matriz1.dll

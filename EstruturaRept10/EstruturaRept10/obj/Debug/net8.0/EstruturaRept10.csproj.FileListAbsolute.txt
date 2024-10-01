@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\bin\Debug\net8.0\EstruturaRept10.exe
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\bin\Debug\net8.0\EstruturaRept10.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\bin\Debug\net8.0\EstruturaRept10.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\bin\Debug\net8.0\EstruturaRept10.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\bin\Debug\net8.0\EstruturaRept10.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\refint\EstruturaRept10.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\EstruturaRept10.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRept10\EstruturaRept10\obj\Debug\net8.0\ref\EstruturaRept10.dll

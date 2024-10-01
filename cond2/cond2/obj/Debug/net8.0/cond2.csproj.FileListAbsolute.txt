@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\bin\Debug\net8.0\cond2.exe
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\bin\Debug\net8.0\cond2.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\bin\Debug\net8.0\cond2.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\bin\Debug\net8.0\cond2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\bin\Debug\net8.0\cond2.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\refint\cond2.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\cond2.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond2\cond2\obj\Debug\net8.0\ref\cond2.dll

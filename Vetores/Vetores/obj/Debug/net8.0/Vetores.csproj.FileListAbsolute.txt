@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\bin\Debug\net8.0\Vetores.exe
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\bin\Debug\net8.0\Vetores.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\bin\Debug\net8.0\Vetores.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\bin\Debug\net8.0\Vetores.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\bin\Debug\net8.0\Vetores.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\refint\Vetores.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\Vetores.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Vetores\Vetores\obj\Debug\net8.0\ref\Vetores.dll

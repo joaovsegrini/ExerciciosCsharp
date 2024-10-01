@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\bin\Debug\net8.0\EstruturaRepet1.exe
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\bin\Debug\net8.0\EstruturaRepet1.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\bin\Debug\net8.0\EstruturaRepet1.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\bin\Debug\net8.0\EstruturaRepet1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\bin\Debug\net8.0\EstruturaRepet1.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\refint\EstruturaRepet1.dll
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\EstruturaRepet1.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\EstruturaRepet1\EstruturaRepet1\obj\Debug\net8.0\ref\EstruturaRepet1.dll

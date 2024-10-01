@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{541BC565-05D0-4FD2-AEF5-C2B4F988931A}|OrientacaoObjeto7\\OrientacaoObjeto7.csproj|d:\\estudos\\c# estudos\\projetos\\exercicios\\orientacaoobjeto7\\orientacaoobjeto7\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541BC565-05D0-4FD2-AEF5-C2B4F988931A}|OrientacaoObjeto7\\OrientacaoObjeto7.csproj|solutionrelative:orientacaoobjeto7\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541BC565-05D0-4FD2-AEF5-C2B4F988931A}|OrientacaoObjeto7\\OrientacaoObjeto7.csproj|d:\\estudos\\c# estudos\\projetos\\exercicios\\orientacaoobjeto7\\orientacaoobjeto7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541BC565-05D0-4FD2-AEF5-C2B4F988931A}|OrientacaoObjeto7\\OrientacaoObjeto7.csproj|solutionrelative:orientacaoobjeto7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto7\\OrientacaoObjeto7\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjeto7\\ContaBancaria.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto7\\OrientacaoObjeto7\\ContaBancaria.cs",
+              "RelativeToolTip": "OrientacaoObjeto7\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:55:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto7\\OrientacaoObjeto7\\Program.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjeto7\\Program.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto7\\OrientacaoObjeto7\\Program.cs",
+              "RelativeToolTip": "OrientacaoObjeto7\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:54:13.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

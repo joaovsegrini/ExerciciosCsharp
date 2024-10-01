@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\bin\Debug\net8.0\cond3.exe
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\bin\Debug\net8.0\cond3.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\bin\Debug\net8.0\cond3.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\bin\Debug\net8.0\cond3.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\bin\Debug\net8.0\cond3.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\refint\cond3.dll
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\cond3.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\cond3\cond3\obj\Debug\net8.0\ref\cond3.dll

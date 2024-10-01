@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EstruturaRept6/1.0.0": {
+        "runtime": {
+          "EstruturaRept6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaRept6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

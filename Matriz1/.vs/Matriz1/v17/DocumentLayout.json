@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\Matriz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3CFE0C-EC2E-4502-8E0E-DD4C2CF4AFA0}|Matriz1\\Matriz1.csproj|d:\\estudos\\c# estudos\\projetos\\exercicios\\matriz1\\matriz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3CFE0C-EC2E-4502-8E0E-DD4C2CF4AFA0}|Matriz1\\Matriz1.csproj|solutionrelative:matriz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\Matriz1\\Matriz1\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz1\\Program.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\Matriz1\\Matriz1\\Program.cs",
+              "RelativeToolTip": "Matriz1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:10:49.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
