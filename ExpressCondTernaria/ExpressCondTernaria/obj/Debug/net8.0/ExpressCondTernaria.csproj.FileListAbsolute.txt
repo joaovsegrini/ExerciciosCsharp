@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\bin\Debug\net8.0\ExpressCondTernaria.exe
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\bin\Debug\net8.0\ExpressCondTernaria.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\bin\Debug\net8.0\ExpressCondTernaria.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\bin\Debug\net8.0\ExpressCondTernaria.dll
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\bin\Debug\net8.0\ExpressCondTernaria.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.dll
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\refint\ExpressCondTernaria.dll
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ExpressCondTernaria.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\ExpressCondTernaria\ExpressCondTernaria\obj\Debug\net8.0\ref\ExpressCondTernaria.dll

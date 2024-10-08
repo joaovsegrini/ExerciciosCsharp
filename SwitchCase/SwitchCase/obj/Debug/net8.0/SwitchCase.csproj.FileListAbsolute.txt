@@ -1,0 +1,14 @@
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\SwitchCase\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
