@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj": {}
+    "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj": {
+    "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj",
+        "projectUniqueName": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj",
         "projectName": "OrientacaoObjeto6",
-        "projectPath": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj",
+        "projectPath": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\OrientacaoObjeto6.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\C# estudos\\projetos\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\obj\\",
+        "outputPath": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\OrientacaoObjeto6\\OrientacaoObjeto6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,29 @@
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.exe
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\Estudos\C# estudos\projetos\Exercicios\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll

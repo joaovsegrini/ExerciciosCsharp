@@ -16,12 +16,14 @@ aluno.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 Console.WriteLine("NOTA FINAL = "
     + aluno.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
 
-if (aluno.Aprovado()) {
+if (aluno.Aprovado())
+{
     Console.WriteLine("APROVADO");
 }
-else {
+else
+{
     Console.WriteLine("REPROVADO");
-    Console.WriteLine("FALTARAM " 
+    Console.WriteLine("FALTARAM "
         + aluno.NomeRestante().ToString("F2", CultureInfo.InvariantCulture)
         + " PONTOS");
 }
