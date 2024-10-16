@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\bin\Debug\net8.0\Composicao.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Composicao\Composicao\obj\Debug\net8.0\ref\Composicao.dll
