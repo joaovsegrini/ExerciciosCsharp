@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\bin\Debug\net8.0\HerançaEPolimorfismo.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\bin\Debug\net8.0\HerançaEPolimorfismo.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\bin\Debug\net8.0\HerançaEPolimorfismo.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\bin\Debug\net8.0\HerançaEPolimorfismo.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\bin\Debug\net8.0\HerançaEPolimorfismo.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\refint\HerançaEPolimorfismo.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\HerançaEPolimorfismo.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\HerançaEPolimorfismo\HerançaEPolimorfismo\obj\Debug\net8.0\ref\HerançaEPolimorfismo.dll
