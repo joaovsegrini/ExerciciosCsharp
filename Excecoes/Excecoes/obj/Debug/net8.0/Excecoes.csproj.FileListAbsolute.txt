@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\refint\Excecoes.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Excecoes\Excecoes\obj\Debug\net8.0\ref\Excecoes.dll
