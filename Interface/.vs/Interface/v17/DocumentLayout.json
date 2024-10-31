@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\interface\\interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F41DEDC-F235-49E3-A72F-8AAB81DA8C52}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\ITaxService.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Interface\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:56:13.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\RentalService.cs",
+              "RelativeToolTip": "Interface\\Services\\RentalService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:33:38.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrazilTaxServices.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\BrazilTaxServices.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\BrazilTaxServices.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Services\\BrazilTaxServices.cs",
+              "RelativeToolTip": "Interface\\Services\\BrazilTaxServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:31:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Interface\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:24:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Interface\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:18:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Interface\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:17:01.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:59:59.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
