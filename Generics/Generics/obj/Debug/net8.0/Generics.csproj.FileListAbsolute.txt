@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\bin\Debug\net8.0\Generics.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\bin\Debug\net8.0\Generics.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\bin\Debug\net8.0\Generics.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\bin\Debug\net8.0\Generics.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\refint\Generics.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Generics\Generics\obj\Debug\net8.0\ref\Generics.dll
