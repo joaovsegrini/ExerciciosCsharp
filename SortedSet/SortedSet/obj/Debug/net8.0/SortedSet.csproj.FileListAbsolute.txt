@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\bin\Debug\net8.0\SortedSet.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\refint\SortedSet.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\SortedSet.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\SortedSet\SortedSet\obj\Debug\net8.0\ref\SortedSet.dll
