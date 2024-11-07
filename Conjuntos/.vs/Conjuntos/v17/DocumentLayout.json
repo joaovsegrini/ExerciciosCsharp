@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Conjuntos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F6E01D-3402-438C-AAC1-BBA8926BB23C}|Conjuntos\\Conjuntos.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\conjuntos\\conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F6E01D-3402-438C-AAC1-BBA8926BB23C}|Conjuntos\\Conjuntos.csproj|solutionrelative:conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F6E01D-3402-438C-AAC1-BBA8926BB23C}|Conjuntos\\Conjuntos.csproj|d:\\estudos\\c# estudos\\projetos c#\\exercicios\\conjuntos\\conjuntos\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F6E01D-3402-438C-AAC1-BBA8926BB23C}|Conjuntos\\Conjuntos.csproj|solutionrelative:conjuntos\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogRecord.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Conjuntos\\Conjuntos\\Entities\\LogRecord.cs",
+              "RelativeDocumentMoniker": "Conjuntos\\Entities\\LogRecord.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Conjuntos\\Conjuntos\\Entities\\LogRecord.cs",
+              "RelativeToolTip": "Conjuntos\\Entities\\LogRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:11:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Conjuntos\\Conjuntos\\Program.cs",
+              "RelativeDocumentMoniker": "Conjuntos\\Program.cs",
+              "ToolTip": "D:\\Estudos\\C# estudos\\Projetos C#\\Exercicios\\Conjuntos\\Conjuntos\\Program.cs",
+              "RelativeToolTip": "Conjuntos\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:01:59.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.exe
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.deps.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.runtimeconfig.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\bin\Debug\net8.0\Conjuntos.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfoInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfo.cs
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.csproj.CoreCompileInputs.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.sourcelink.json
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\refint\Conjuntos.dll
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.pdb
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\Conjuntos.genruntimeconfig.cache
+D:\Estudos\C# estudos\Projetos C#\Exercicios\Conjuntos\Conjuntos\obj\Debug\net8.0\ref\Conjuntos.dll
